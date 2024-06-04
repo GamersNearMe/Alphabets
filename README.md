@@ -14,7 +14,7 @@ At its core, the Alphabets Project aims to collect and display the alphabet—ye
 
 2. **Choose Your Language**: Decide which programming language you'd like to work with. You can choose from popular languages like C, C++, Java, Python, JavaScript, or even esoteric languages like Whitespace (yes, that's a thing too).
 
-3. **Create Your Implementation**: Inside the repository, navigate to the appropriate language directory (e.g., `c/`, `cpp/`, `python/`, etc.). Create a new file named after the letter you're implementing (e.g., `A.c`, `B.cpp`, `C.py`, etc.).
+3. **Create Your Implementation**: Inside the repository, navigate to the appropriate language directory (e.g., `c-YourUsername/`, `cpp-YourUsername/`, `python-YourUsername/`, etc.). Create a new file named after the letter you're implementing (e.g., `A.c`, `B.cpp`, `C.py`, etc.).
 
 4. **Write the Code**: Write a program that generates the visual representation of the letter. You can use ASCII art, graphics libraries, or any other creative approach. Remember, this is your chance to showcase your skills and have fun!
 
